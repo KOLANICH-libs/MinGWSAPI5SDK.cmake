@@ -1,0 +1,3 @@
+[submodule "FindIDL"]
+	path = thirdParty/FindIDL
+	url = https://github.com/KOLANICH/FindIDL
